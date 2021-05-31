@@ -4,6 +4,6 @@ Aplicaicones Web
 Desarrollo de Software
 UTez
 Ordinario
-Numero uno
-7:27
-Mexico
+Modulo: Numero uno
+Hora: 7:27
+Ciudad: Mexico
