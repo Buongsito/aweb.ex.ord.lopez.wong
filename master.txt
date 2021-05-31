@@ -1,6 +1,6 @@
-Luis Daniel López Wong
-3C
-Aplicaicones Web
+Nombre: Luis Daniel López Wong
+Grado Y Grupo: 3C
+Materia: Aplicaicones Web
 Desarrollo de Software
 UTez
 Ordinario
